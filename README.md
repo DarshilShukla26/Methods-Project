@@ -22,11 +22,6 @@ This repository contains my project notebook for a statistical methods course, w
 - Plots and performance summaries for each algorithm.
 - Conclusions and insights from comparative model performance.
 
-## Datasets Used
-
-- Regression dataset for predicting continuous variables using linear regression.
-- Classification dataset for predicting class labels using multiple classifiers.
-
 ## Requirements
 
 - Python 3.x
