@@ -1,6 +1,6 @@
 # Methods Project - Statistical and Machine Learning Methods
 
-This repository contains my project notebook for a statistical methods course, where I implemented and compared various machine learning models on classification and regression tasks. The project focuses on analyzing real-world datasets using theoretical concepts from statistics and machine learning.
+This repository contains my project notebook for a statistical methods course, where I implemented and compared various machine learning models on classification and regression tasks.
 
 ## Topics Covered
 
@@ -37,8 +37,3 @@ This repository contains my project notebook for a statistical methods course, w
   - matplotlib
   - seaborn
   - scikit-learn
-
-To install dependencies:
-
-```bash
-pip install -r requirements.txt
