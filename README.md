@@ -22,6 +22,9 @@ This repository contains my project notebook for a statistical methods course, w
 - Plots and performance summaries for each algorithm.
 - Conclusions and insights from comparative model performance.
 
+## Dataset
+breast cancer wisconsin dataset
+
 ## Requirements
 
 - Python 3.x
